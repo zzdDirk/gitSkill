@@ -23,3 +23,6 @@ this is dev2
  Stashed changes
 fix bug b4 dev2
 
+this is partener22222222
+
+
