@@ -5,6 +5,8 @@ addxsxsxsa
 
 this f1
 
+fix bug
+
 i am working in branch dev
 
 afer fix bug
@@ -19,3 +21,5 @@ hhhhhhh22222
 
 this is dev2
  Stashed changes
+fix bug b4 dev2
+
